@@ -1,0 +1,14 @@
+# Ignore PyCharm stuff
+.idea/
+*.iml
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore envs
+.env
+venv/
+env/
